@@ -1,0 +1,6 @@
+venv
+build
+dist
+covid19_model.egg-info
+__pycache__
+.DS_Store
